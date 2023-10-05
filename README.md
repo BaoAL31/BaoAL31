@@ -1,2 +1,1 @@
-- Currently an undergraduate.
-- Majoring in AI.
+- AI major
