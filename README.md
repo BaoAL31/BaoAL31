@@ -1,1 +1,2 @@
-- AI major
+- Current student at UTS (2022-2026).
+- Major: AI and Data Analystics.
